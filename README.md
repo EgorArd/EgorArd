@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">My name is Egor and I'm a Python developer, from Russia</p>
-
-###
-
 <h2 align="left">I am interested in the development of telegram bots 🤖, computer vision and the development of various projects based on Arduino🛠</h2>
 
 ###
